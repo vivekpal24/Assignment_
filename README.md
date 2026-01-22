@@ -118,8 +118,8 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd recipe_finder
+   git clone <(https://github.com/vivekpal24/Assignment_)>
+   cd Assignmen_/recipe_finder
    ```
 
 2. **Install dependencies**
