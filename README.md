@@ -118,7 +118,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone <(https://github.com/vivekpal24/Assignment_)>
+   git clone <https://github.com/vivekpal24/Assignment_>
    cd Assignmen_/recipe_finder
    ```
 
