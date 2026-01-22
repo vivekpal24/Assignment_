@@ -119,7 +119,7 @@ lib/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/vivekpal24/Assignment_
-   cd Assignment_/recipe_finder
+   cd Assignment_
    ```
 
 2. **Install dependencies**
